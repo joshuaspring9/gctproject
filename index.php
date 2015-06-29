@@ -27,39 +27,11 @@
 				<div class="inner">
 				<a name="two"></a>
 					<article class="feature left">
-						<!-- 20px padding is only for the below image -->
-						<span class="image"><img style="padding-left:20px;" src="images/handshake.jpg" alt="" /></span>
-						<div class="content">
-							<h2>Use our platform to manage your invoices</h2>
-							<p>A useful dashboard gives you one look access to who's paid and who hasn't, along with a dedicated one click button to chat with partners.</p>
-							<ul class="actions">
-								<li>
-									<a href="#" class="button alt">Time saving</a>
-								</li>
-							</ul>
-						</div>
-					</article>
-					<article class="feature right">
-						<span class="image"><img src="images/pic02.jpg" alt="" /></span>
-						<div class="content">
-							<h2>Explore a data filled dashboard on your account</h2>
-							<p>View your account as a customer with a one glance comprehensive dashboard, and respond to issues directly from our interface.</p>
-							<ul class="actions">
-								<li>
-									<a href="#" class="button alt">good looking</a>
-								</li>
-							</ul>
-						</div>
-					</article>
-					<article class="feature left">
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 						<div class="content">
 							<h2>Incentives</h2>
-							<p>Pay our bills on time. Get rewarded. Simple as that.</p>
+							<p>Pay your bills on time. Get rewarded. Simple as that.</p>
 
-
-
-<p>All-in-One: Bills, Businesses, Collections. Now all in one place, at your convenience.</p>
 							<ul class="actions">
 								<li>
 									<a href="#" class="button alt">Compensation</a>
@@ -72,7 +44,6 @@
 						<div class="content">
 							<h2>Community</h2>
 							<p>Helping businesses become extraordinary ones. Building a better understanding between you and your business partners. We’re here to help.</p>
-your account as a customer with a one glance comprehensive dashboard, and respond to issues directly from our interface.</p>
 							<ul class="actions">
 								<li>
 									<a href="#" class="button alt">Relationships</a>
@@ -84,7 +55,7 @@ your account as a customer with a one glance comprehensive dashboard, and respon
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 						<div class="content">
 							<h2>All-in-one</h2>
-<p>Bills, Businesses, Collections. Now all in one place, at your convenience.</p>
+<p>Bills, Businesses, Collections. Now all in one place, at your convenience.  A useful dashboard gives you one look access to who's paid and who hasn't, along with a dedicated one click button to chat with partners.  View your account as a customer with a one glance comprehensive dashboard, and respond to issues directly from our interface.</p>
 							<ul class="actions">
 								<li>
 									<a href="#" class="button alt">Helpful</a>

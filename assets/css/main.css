@@ -4226,3 +4226,26 @@
 			}
 
 		}
+		.width {
+		width:75%;
+		}
+		.money {
+		display: block;
+		text-align:center;
+		height: 80px;
+		width: 80px;
+		line-height: 80px;
+		font-size:4em;
+		color:white;
+		-moz-border-radius: 40px; /* or 50% */
+        border-radius: 40px; /* or 50% */
+		border: 2px solid white;
+		margin: 0 auto;
+		padding-bottom:20px;
+		}
+		 div.g-recaptcha {
+		margin: 0 auto;
+		width: 304px;
+		padding-top:10px;
+		padding-bottom:10px;
+		}  

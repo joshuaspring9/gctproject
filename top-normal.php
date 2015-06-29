@@ -1,5 +1,5 @@
-<!-- Header -->
-			<header id="header" class="alt">
+		<!-- Header -->
+			<header id="header">
 				<h1><a href="index.php">Bizni</a></h1>
 				<a href="#nav">Menu</a>
 			</header>
