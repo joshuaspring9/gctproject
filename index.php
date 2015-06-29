@@ -40,7 +40,7 @@
 						</div>
 					</article>
 					<article class="feature right">
-						<span class="image"><img src="images/pic02.jpg" alt="" /></span>
+						<span class="image"><img src="images/group.jpg" alt="" /></span>
 						<div class="content">
 							<h2>Community</h2>
 							<p>Helping businesses become extraordinary ones. Building a better understanding between you and your business partners. We’re here to help.</p>
@@ -52,7 +52,7 @@
 						</div>
 					</article>
 					<article class="feature left">
-						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image"><img src="images/dashboard.png" alt="" /></span>
 						<div class="content">
 							<h2>All-in-one</h2>
 <p>Bills, Businesses, Collections. Now all in one place, at your convenience.  A useful dashboard gives you one look access to who's paid and who hasn't, along with a dedicated one click button to chat with partners.  View your account as a customer with a one glance comprehensive dashboard, and respond to issues directly from our interface.</p>
