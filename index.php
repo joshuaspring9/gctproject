@@ -27,7 +27,7 @@
 				<div class="inner">
 				<a name="two"></a>
 					<article class="feature left">
-						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image"><img src="images/handshake.jpg" alt="" /></span>
 						<div class="content">
 							<h2>Incentives</h2>
 							<p>Pay your bills on time. Get rewarded. Simple as that.</p>
