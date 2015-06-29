@@ -6,31 +6,35 @@
 -->
 <html>
 		<head>
+		<title>Bizni</title>
 		<?php include "header.php"; ?>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 		</head>
 		<body class="landing">
 		<?php include "top.php"; ?>
 		<!-- Banner -->
 			<section id="banner">
-				<i class="icon fa-diamond"></i>
-				<h2>Introducing the new way to pay</h2>
-				<p>Payment solutions is the new responsive system designed to make paying and getting paid easier</p>
+				<span class="money">$</span>
+				<h2>Introducing the new way to get paid</h2>
+				<p>Bizni is the B2B solution designed to make getting paid easier</p>
 				<ul class="actions">
-					<li><a href="#" class="button big special">Learn More</a></li>
+					<li><a href="#" id="more" class="button big special">Learn More</a></li>
 				</ul>
 			</section>
 
 		<!-- One -->
 			<section id="one" class="wrapper style1">
 				<div class="inner">
+				<a name="two"></a>
 					<article class="feature left">
-						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<!-- 20px padding is only for the below image -->
+						<span class="image"><img style="padding-left:20px;" src="images/handshake.jpg" alt="" /></span>
 						<div class="content">
-							<h2>Use our dedicated online interface to manage your clients</h2>
-							<p>A useful dashboard gives you one look access to who's paid and who hasn't, along with a dedicated one click button to remind customers</p>
+							<h2>Use our platform to manage your invoices</h2>
+							<p>A useful dashboard gives you one look access to who's paid and who hasn't, along with a dedicated one click button to chat with partners.</p>
 							<ul class="actions">
 								<li>
-									<a href="#" class="button alt">More</a>
+									<a href="#" class="button alt">Time saving</a>
 								</li>
 							</ul>
 						</div>
@@ -39,10 +43,51 @@
 						<span class="image"><img src="images/pic02.jpg" alt="" /></span>
 						<div class="content">
 							<h2>Explore a data filled dashboard on your account</h2>
-							<p>View your account as a customer with a one glance comprehensive dashboard, and respond directly from our interface</p>
+							<p>View your account as a customer with a one glance comprehensive dashboard, and respond to issues directly from our interface.</p>
 							<ul class="actions">
 								<li>
-									<a href="#" class="button alt">More</a>
+									<a href="#" class="button alt">good looking</a>
+								</li>
+							</ul>
+						</div>
+					</article>
+					<article class="feature left">
+						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<div class="content">
+							<h2>Incentives</h2>
+							<p>Pay our bills on time. Get rewarded. Simple as that.</p>
+
+
+
+<p>All-in-One: Bills, Businesses, Collections. Now all in one place, at your convenience.</p>
+							<ul class="actions">
+								<li>
+									<a href="#" class="button alt">Compensation</a>
+								</li>
+							</ul>
+						</div>
+					</article>
+					<article class="feature right">
+						<span class="image"><img src="images/pic02.jpg" alt="" /></span>
+						<div class="content">
+							<h2>Community</h2>
+							<p>Helping businesses become extraordinary ones. Building a better understanding between you and your business partners. We’re here to help.</p>
+your account as a customer with a one glance comprehensive dashboard, and respond to issues directly from our interface.</p>
+							<ul class="actions">
+								<li>
+									<a href="#" class="button alt">Relationships</a>
+								</li>
+							</ul>
+						</div>
+					</article>
+					<article class="feature left">
+						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<div class="content">
+							<h2>All-in-one</h2>
+<p>Bills, Businesses, Collections. Now all in one place, at your convenience.</p>
+							<ul class="actions">
+								<li>
+									<a href="#" class="button alt">Helpful</a>
 								</li>
 							</ul>
 						</div>
@@ -76,11 +121,12 @@
 				<div class="inner">
 					<header class="major narrow	">
 						<h2>Get exclusive early access</h2>
-						<p>Enter your email address below for an opportunity to experience Payment Solutions and offer feedback that will shape the future.</p>
+						<p>Enter your email address below for an opportunity to experience Bizni and offer feedback that will shape the future.</p>
 					</header>
-					<form target="email-thanks.php" method="post">
-					<input placeholder="Email Address" type="text" name="email" />
-					<ul class="actions">
+					<form action="email-thanks.php" method="POST">
+					<input placeholder="Email Address" type="text" id="email" name="email" />
+					<div class="g-recaptcha" data-sitekey="6LfT9wgTAAAAAKb3-Wy3tmol9tG3v9GqnMHpkAb_"></div>
+					<ul class="special">
 						<li><input type="submit" value="Submit" class="button big alt" /></li>
 					</ul>
 					</form>

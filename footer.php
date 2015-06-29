@@ -16,7 +16,7 @@
 						</a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; 2015 Payment Solutions.</li>
+						<li>&copy; 2015 Bizni. Made in NYC.</li>
 						<!--<li>Images: <a href="http://unsplash.com">Unsplash</a>.</li>
 						<li>Design: <a href="http://templated.co">TEMPLATED</a>.</li>-->
 					</ul>
@@ -29,3 +29,13 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+			<script type="text/javascript">
+			function scrollToAnchor(aid){
+    var aTag = $("a[name='"+ aid +"']");
+    $('html,body').animate({scrollTop: aTag.offset().top},'slow');
+}
+
+$("#more").click(function() {
+   scrollToAnchor('two');
+});
+</script>
