@@ -97,9 +97,9 @@
 					<form action="email-thanks.php" method="POST">
 					<input placeholder="Email Address" type="text" id="email" name="email" />
 					<div class="g-recaptcha" data-sitekey="6LfT9wgTAAAAAKb3-Wy3tmol9tG3v9GqnMHpkAb_"></div>
-					<ul class="special">
-						<li><input type="submit" value="Submit" class="button big alt" /></li>
-					</ul>
+					
+						<input type="submit" value="Submit" class="button big alt" />
+					
 					</form>
 				</div>
 			</section>
