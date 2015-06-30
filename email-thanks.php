@@ -4,7 +4,6 @@ $email = $_POST['email'];
 //echo $email.$_POST['email'];  //for debugging
         if(isset($_POST['g-recaptcha-response']))
           $captcha=$_POST['g-recaptcha-response'];
-
         if(!$captcha){
           $error =  'Please fill out the form again, completing the reCaptcha.';
         }
@@ -21,7 +20,6 @@ if(strpos($email,"@") === false)
 $file = fopen("database/list.txt", 'a');
 fwrite($file,"\n$email");
 fclose($file);  }
-
 ?>
 
 
