@@ -4243,9 +4243,14 @@
 		margin: 0 auto;
 		padding-bottom:20px;
 		}
-		 div.g-recaptcha {
+		/* div.g-recaptcha {
 		margin: 0 auto;
 		width: 304px;
 		padding-top:10px;
 		padding-bottom:10px;
-		}  
+		}  */
+		.center
+		{
+			text-align:center;
+			margin: 0 auto;
+			}

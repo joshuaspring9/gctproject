@@ -19,7 +19,7 @@
 				<div class="container">
 					<header class="major special">
 						<h2>Who are we?</h2>
-						<p>We are a group of interns at the <a target="_blank" href="http://grandcentraltech.com/">Grand Central Tech Innovation</a> project.  Bizni was created in response to the challenge of the B2B payment problem, where invoices often go unpaid and relationships are strained.  Bizni aims to solve these problems through an all in one style quality product.</p>
+						<p>We are a group of interns at the <a target="_blank" href="http://grandcentraltech.com/">Grand Central Tech Innovation</a> project.  Bizni was created in response to the challenge of the Business to Business (B2B) payment problem, where invoices often go unpaid and relationships are strained.  Bizni aims to solve these problems through an all in one style quality product.</p>
 					</header>
 					
 					<a href="#" class="image fit"><img src="images/gct.jpg" alt="GCT Workspace" /></a><!-- cool image -->
