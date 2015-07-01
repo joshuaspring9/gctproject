@@ -7,7 +7,7 @@
 -->
 <html>
 	<head>
-		<title>About Us</title>
+		<title>Contact Us</title>
 		<?php include "header.php"; ?>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
@@ -40,8 +40,8 @@
 						<input type="hidden" name="ip" value="<?php echo $_SERVER['REMOTE_ADDR']; ?>" />
 						<input type="hidden" name="user" value="<?php echo $_SERVER['HTTP_USER_AGENT'];?>" />
 						<div class="center">
-						<ul class="actions">
 						<div class="g-recaptcha" data-sitekey="6LfT9wgTAAAAAKb3-Wy3tmol9tG3v9GqnMHpkAb_"></div>
+						<ul class="actions">
 							<li><input type="submit" class="special" value="Submit" /></li>
 							<li><input type="reset" class="alt" value="Reset" /></li>
 						</ul>
