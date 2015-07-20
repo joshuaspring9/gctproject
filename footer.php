@@ -16,7 +16,9 @@
 						</a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; 2015 Bizni. Made in NYC.</li>
+						<li>&copy; 2015 Bizni. Made in NYC.</li><br />
+						<li>335 Madison Avenue Floor 3</li><br />
+						<li>New York, NY 10017</li>
 						<!--<li>Images: <a href="http://unsplash.com">Unsplash</a>.</li>
 						<li>Design: <a href="http://templated.co">TEMPLATED</a>.</li>-->
 					</ul>
