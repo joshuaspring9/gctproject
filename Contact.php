@@ -21,7 +21,7 @@
 				<div class="container">
 					<header class="major special">
 						<h2>Get in touch</h2>
-						<p>Send us a message.</p>
+						<p>Questions or comments? Send us a message.  Our support team will get back to you within 24 hours.</p>
 					</header>
 					<form action="contact-thanks.php" method="POST">
 						<div class="container 75%">
