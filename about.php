@@ -26,9 +26,13 @@
 
 
 						<h3>Our team</h3>
-					<h5>Dan Stern</h5> <p>Dan is currently in college studying business.</p>
-					<h5>Joshua Zeitlinger</h5> <p>Joshua is a rising senior at Regis High School with an extensive background in technology and programming.  He brings his experience of maintaining the website <a href="201weather.com">201weather.com</a> as well as several other projects involving Google Maps and 3D Printing APIs.  He is also experienced in both front end (Javascript) and backend (PHP) web scripting.</p>
-					<h5>Ariel Camilo</h5> <p>Ariel Camilo is a recent Regis High School graduate, who will be studying Computer Science at Marist College in the Fall.  His experience falls in the web development category, and in database management.</p>
+					<h5>Dan Stern</h5> <p>Dan is currently in college studying business.
+					&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/danstern4"><img class="icon" src="images/linkedin.png" alt="" />View LinkedIn Profile</a></p>
+
+					<h5>Joshua Zeitlinger</h5> <p>Joshua is a rising senior at Regis High School with an extensive background in technology and programming.  He brings his experience of maintaining the website <a href="201weather.com">201weather.com</a> as well as several other projects involving Google Maps and 3D Printing APIs.  He is also experienced in both front end (Javascript) and backend (PHP) web scripting.
+					&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/joshuazeitlinger"><img class="icon" src="images/linkedin.png" alt="" />View LinkedIn Profile</a></p>
+					<h5>Ariel Camilo</h5> <p>Ariel Camilo is a recent Regis High School graduate, who will be studying Computer Science at Marist College in the Fall.  His experience falls in the web development category, and in database management.
+					&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/arielcamilo"><img class="icon" src="images/linkedin.png" alt="" />View LinkedIn Profile</a></p>
 
 					<a href="#" class="image captioned"><img src="images/gct.jpg" alt="GCT Workspace" /></a><!-- cool image -->
 					<div class="center" style="text-align:center;">The Grand Central Tech Co-Working Space</div>

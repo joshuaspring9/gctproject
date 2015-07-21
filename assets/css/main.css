@@ -4264,3 +4264,9 @@
 			text-align:center;
 			margin: 0 auto;
 		}
+		.icon
+		{
+			width:17px; /* Actual Width + Padding */
+			height:12px;
+			padding-right:5px;
+		}
