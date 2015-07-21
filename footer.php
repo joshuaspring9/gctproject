@@ -9,16 +9,22 @@
 						<li>|</li>
 						<li><a style="text-decoration:none;" href="Contact.php">Contact Us</a></li>
 						<li>|</li>
-						<li><a href="#" class="icon fa-twitter">
-							<span class="label">Twitter</span>
-							@Bizni
-						</a> </li>
+						<li><a href="terms.php" style="text-decoration:none;">Terms</a></li>
+						
 						<!--<li><a href="#" class="icon fa-instagram">
 							<span class="label">Instagram</span>
 						</a></li>
 						<li><a href="#" class="icon fa-linkedin">
 							<span class="label">LinkedIn</span>
 						</a></li>-->
+					</ul>
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter">
+							<span class="label">Twitter</span>
+						</a> </li>
+						<li><a href="#" class="icon fa-facebook">
+							<span class="label">Facebook</span>
+						</a> </li>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; 2015 Bizni. Made in NYC.</li>
