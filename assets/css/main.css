@@ -2223,6 +2223,16 @@
 			.image.fit img {
 				width: 100%;
 			}
+			
+		.image.captioned {
+			display: block;
+			margin: 0 0 0.5em 0;
+			width: 100%;
+		}
+
+			.image.captioned img {
+				width: 100%;
+			}
 
 		.image.main {
 			display: block;
@@ -4110,7 +4120,7 @@
 		@media screen and (max-width: 736px) {
 
 			#main {
-				padding: 2em 0 0.1em 0;
+				padding: 2em 0 1em 0;
 			}
 
 		}
@@ -4188,7 +4198,7 @@
 		}
 
 			#footer .copyright li {
-				display: inline-block;
+				/* display: inline-block; */
 				list-style: none;
 				margin: 0 0.1em;
 			}
@@ -4253,4 +4263,4 @@
 		{
 			text-align:center;
 			margin: 0 auto;
-			}
+		}
