@@ -27,7 +27,7 @@
 					
 						<h3>Our team</h3>
 					<h5>Dan Stern</h5> <p>Dan is currently in college studying business.</p>
-					<h5>Joshua Zeitlinger</h5> <p>Joshua is a rising senior at Regis High School with an extensive background on technology an programming.</p>
+					<h5>Joshua Zeitlinger</h5> <p>Joshua is a rising senior at Regis High School with an extensive background in technology and programming.  He brings his experience of maintaining the website <a href="201weather.com">201weather.com</a> as well as several other projects involving Google Maps and 3D Printing APIs.  He is also experienced in both front end (Javascript) and backend (PHP) web scripting.</p>
 					<h5>Ariel Camilo</h5> <p>Ariel graduated Regis High School this past spring and will be attending Marist in the fall of this year.  He has an extensive background in technology and database management.</p>
 					
 					<a href="#" class="image fit"><img src="images/gct.jpg" alt="GCT Workspace" /></a><!-- cool image -->
