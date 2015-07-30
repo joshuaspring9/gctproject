@@ -34,7 +34,7 @@
 
 							<ul class="actions">
 								<li>
-									<a href="#" class="button alt">Compensation</a>
+									<a class="button alt">Compensation</a>
 								</li>
 							</ul>
 						</div>
@@ -46,7 +46,7 @@
 							<p>Helping businesses become extraordinary ones. Building a better understanding between you and your business partners. We’re here to help.</p>
 							<ul class="actions">
 								<li>
-									<a href="#" class="button alt">Relationships</a>
+									<a class="button alt">Relationships</a>
 								</li>
 							</ul>
 						</div>
@@ -58,7 +58,7 @@
 <p>Bills, Businesses, Collections. Now all in one place, at your convenience.  A useful dashboard gives you one look access to who's paid and who hasn't, along with a dedicated one click button to chat with partners.  View your account as a customer with a one glance comprehensive dashboard, and respond to issues directly from our interface.</p>
 							<ul class="actions">
 								<li>
-									<a href="#" class="button alt">Helpful</a>
+									<a class="button alt">Helpful</a>
 								</li>
 							</ul>
 						</div>
